@@ -2,7 +2,7 @@
 
 A colorful command-line task manager with persistent storage, built with Python.
 
-![CLI Demo](https://via.placeholder.com/600x300.png?text=CLI+Screenshot+Placeholder)  
+![CLI Demo](./assets/command-line.PNG)
 *(Replace with actual screenshot after uploading)*
 
 ## 🌟 Features
