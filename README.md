@@ -3,7 +3,6 @@
 A colorful command-line task manager with persistent storage, built with Python.
 
 ![CLI Demo](./assets/command-line.PNG)
-*(Replace with actual screenshot after uploading)*
 
 ## 🌟 Features
 - Add/delete/view tasks
@@ -19,4 +18,4 @@ A colorful command-line task manager with persistent storage, built with Python.
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-cli.git
+   git clone https://github.com/Parsa-developer/To-Do-List-CLI.git
